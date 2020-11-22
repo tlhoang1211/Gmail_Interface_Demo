@@ -6,7 +6,7 @@
 https://topdev.vn/blog/retrofit-trong-android/
 https://viblo.asia/p/huong-dan-su-dung-thu-vien-retrofit-de-call-api-voi-android-yMnKMmpgK7P
 
-//model - đ giải thích đâu nhé :))
+//model - d giai thich dau nhe :)).
 
 //network directory
 
@@ -20,8 +20,8 @@ https://viblo.asia/p/huong-dan-su-dung-thu-vien-retrofit-de-call-api-voi-android
 
 6. DividerItemDecoration.java - This helps in adding divider lines in recycler view.
 
-7. Flip Animation - t làm thêm không cần hiểu thích thì tự đọc nhé
+7. Flip Animation - t lam them ko can hieu dau thich thi tu doc thui.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Mấy cái rendering cũng thế. 
-- Layouts thì t chia nhỏ ra xong lồng vào nhau thui (2 folder menu với layout)
+- May cai rendering cung vay. 
+- Layouts thi t chia nho ra xong long vao nhau thui (2 folder menu + layout)
